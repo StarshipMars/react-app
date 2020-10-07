@@ -1,0 +1,108 @@
+
+{
+
+    "table_name":"test table",
+    "header_cells":[
+    {
+        "row":0,
+        "column":0,
+        "data":"First name"
+    },
+    {
+        "row":0,
+        "column":1,
+        "data":"Last name"
+    },
+    {
+        "row":0,
+        "column":2,
+        "data":"Date"
+    },
+    {
+        "row":0,
+        "column":3,
+        "data":"Age"
+    },
+    {
+        "row":0,
+        "column":4,
+        "data":"Active"
+    }
+                    ],
+
+    "cells":[
+    {
+        "row":1,
+        "column":0,
+        "data":"Guido",
+        "is_mutable":false,
+        "type":"string"
+    },
+    {
+        "row":1,
+        "column":1,
+        "data":"Rossum",
+        "is_mutable":false,
+        "type":"string"
+    },
+    {
+        "row":1,
+        "column":2,
+        "data":"2000-10-31T01:30:00.000-05:00",
+        "is_mutable":true,
+        "type":"datetime"
+    },
+    {
+        "row":1,
+        "column":3,
+        "data":63,
+        "is_mutable":true,
+        "type":"number"
+    },
+    {
+        "row":1,
+        "column":4,
+        "data":true,
+        "is_mutable":true,
+        "type":"boolean"
+    },
+    {
+        "row":2,
+        "column":0,
+        "data":"Dan",
+        "is_mutable":false,
+        "type":"string"
+    },
+    {
+        "row":2,
+        "column":1,
+        "data":"Abramov",
+        "is_mutable":false,
+        "type":"string"
+    },
+    {
+        "row":2,
+        "column":2,
+        "data":"2000-10-31T01:30:00.000-05:00",
+        "is_mutable":true,
+        "type":"datetime"
+    },
+    {
+        "row":2,
+        "column":3,
+        "data":23,
+        "is_mutable":true,
+        "type":"number"
+    },
+    {
+        "row":2,
+        "column":4,
+        "data":true,
+        "is_mutable":true,
+        "type":"boolean"
+    }
+           ]
+}
+
+
+    
